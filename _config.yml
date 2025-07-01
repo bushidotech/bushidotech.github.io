@@ -2,9 +2,9 @@ theme: jekyll-theme-hacker
 title: Bushidotech's /etc/home
 description: A location to store the thoughts, projects and notes of a student of cybersecurity
 show_downloads: true
-#plugins:
- # - jekyll-relative-links
-#
-#relative_links:
-#  enabled: true
-#  collections: true
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
