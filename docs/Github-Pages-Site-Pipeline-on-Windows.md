@@ -14,6 +14,7 @@
 * [Github account](github.com)
 * [Github Pages repo](https://docs.github.com/en/pages/quickstart)
 * [SSH key generated and loaded to github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 #### Physical
 * 4gb ram recommended for obsidian
 * An internet connection
