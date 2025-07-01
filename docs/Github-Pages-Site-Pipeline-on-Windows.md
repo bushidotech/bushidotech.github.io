@@ -146,6 +146,9 @@ relative_links:
 
   collections: true
 ```
+
+---
+
 ## 5. Push local repo to github.com
 
 * After posts have been copied from your local obsidian posts directory into your local site repo directory, you will want to push these up to github.com
