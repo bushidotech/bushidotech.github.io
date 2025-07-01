@@ -124,7 +124,8 @@ ls docs
 * The built-in themes can be previewed. It's worth checking the repo to find the correct syntax for referring to the theme in your config.yml file.
 * Title and theme parameters give you a nice header
 * For reference, here is my file:
-```yaml
+
+```yml
 theme: jekyll-theme-hacker
 
 title: Bushidotech's /etc/home
