@@ -2,20 +2,6 @@
 
 This post walk you through writing and organizing posts in Obsidian, then using VSCode and Git Bash to copy selected notes into a Jekyll-powered local site repository. From there, the user stages, commits, and pushes the content to a remote GitHub repository, where GitHub Pages automatically builds and deploys the static site. Key setup includes enabling the `jekyll-relative-links` plugin for correct link rendering, structuring posts and images inside a `docs/` directory, and customizing the `_config.yml` to control theme and layout. The site’s homepage is rendered from `README.md`, while additional pages and assets live under `docs/`.
 
-## Target Logical Architecture
-```mermaid
-graph TD
-  A[Obsidian Vault] --> B[VSCode]
-  B --> C[Copy selected posts via Bash]
-  C --> D[Local Jekyll site repo]
-  D --> E[git push to GitHub]
-  E --> F[GitHub Pages Builds Site]
-  F --> G[README.md as Homepage]
-  F --> H[docs/*.md as Subpages]
-  F --> I[docs/assets/ for Images]
-  F --> J[_config.yml for Settings]
-```
-
 ## Prerequisites
 
 #### Software and Know-How
