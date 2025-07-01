@@ -1,8 +1,3 @@
----
-layout: default
-title: How my blog site works
----
-
 ## TLDR; Summary
 
 This post walk you through writing and organizing posts in Obsidian, then using VSCode and Git Bash to copy selected notes into a Jekyll-powered local site repository. From there, the user stages, commits, and pushes the content to a remote GitHub repository, where GitHub Pages automatically builds and deploys the static site. Key setup includes enabling the `jekyll-relative-links` plugin for correct link rendering, structuring posts and images inside a `docs/` directory, and customizing the `_config.yml` to control theme and layout. The site’s homepage is rendered from `README.md`, while additional pages and assets live under `docs/`.
