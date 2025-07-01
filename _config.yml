@@ -2,4 +2,4 @@ theme: jekyll-theme-hacker
 title: Bushidotech's /etc/home
 description: A location to store the thoughts, projects and notes of a student of cybersecurity
 show_downloads: false
-permalink: /docs/intro
+permalink: /docs
