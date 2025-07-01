@@ -10,5 +10,7 @@ This Blog will feature a record of my path as a hacker and martial artist. It wi
 #### Personal Course Notes and Course Companions
 
 #### CTF report
-test
+
+#### test page
+![](gitstatus.md)
 
