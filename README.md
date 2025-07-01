@@ -8,8 +8,13 @@ This Blog will feature a record of my path as a hacker and martial artist. It wi
 #### Tech Blog
 [Create a Personal Blog With Github Pages on Windows](docs/Github-Pages-Site-Pipeline-on-Windows.md)
 
-#### Course Companions - Personal Motes With Tips,  Context, and Reflections, That Helped m=Me Through
+#### Course Companions - Personal Motes With Tips,  Context, and Reflections, That Helped Me Through
 Coming Soon...
+
 #### CTF Report
 Coming Soon....
+
+#### Projects
+[My Future Projects](docs/Future-Projects.md)
+
 
