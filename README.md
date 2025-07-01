@@ -12,4 +12,4 @@ This Blog will feature a record of my path as a hacker and martial artist. It wi
 #### CTF report
 
 #### test page
-![HWtest](firspagetest.md)
+![HWtest](/firspagetest.md)
