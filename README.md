@@ -6,12 +6,10 @@ BushidoTech is a moniker, chosen by myself to project a personal image of a dedi
 This Blog will feature a record of my path as a hacker and martial artist. It will contain reflections on my practice, raw notes, and research reports as necessary. It may also contain reflections of popular culture, media, or physical martial arts. 
 
 #### Tech Blog
-[Create a Personal Blog With Github Pages on Windows](docs/Github%20Pages%20Site%20Pipeline%20on%20Windows.md)
+[Create a Personal Blog With Github Pages on Windows](docs/Github-Pages-Site-Pipeline-on-Windows.md)
 
 #### Course Companions - Personal Motes With Tips, and Context, and Reflections, That Helped m=Me Through
 Coming Soon...
 #### CTF Report
 Coming Soon....
 
-#### test
-[hello](/docs/helloworld.md)
